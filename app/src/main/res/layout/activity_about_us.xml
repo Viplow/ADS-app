@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AboutUsActivity">
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="This is the official app of the Android Development Society, the technical society of the Electronics and Communication Department of JSS Academy of Technical Education, Noida
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Under the able guidance of our faculties, Ms. Suvarna and Mr. Manju JR, the society started as a cell with a few members involved. With consistent hard work and patience of all its members , today the society has evolved and has shown great progress. The concept of team work is seen within the greater framework of ADS, with interdependent individuals working together towards their motives.
+"
+        android:textStyle="bold"
+        android:textSize="24dp"
+        />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
